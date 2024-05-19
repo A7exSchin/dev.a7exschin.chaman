@@ -3,7 +3,7 @@
     "beforeBuildCommand": "npm run web:prod",
     "beforeDevCommand": "npm run web:serve",
     "devPath": "http://localhost:4200",
-    "distDir": "../dist"
+    "distDir": "../dist/browser"
   },
   "package": {
     "productName": "dev.a7exschin.chaman",
